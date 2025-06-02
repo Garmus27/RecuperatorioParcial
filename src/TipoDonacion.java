@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public enum TipoDonacion {
+    DINERO,
+    HERRAMIENTAS,
+    SEMILLAS,
+    OTROS
 }
